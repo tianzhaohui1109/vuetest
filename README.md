@@ -35,25 +35,3 @@ src
 ├── App.vue 主组件
 ├── main.js 入口文件
 ```
-
-### 项目技术栈
-- vue3
-- vue-router
-- vuex
-- axios
-- element-ui
-- echarts
-- webpack
-- vite  
-- typescript
-- scss
-- less
-- eslint
-- prettier
-- husky
-- lint-staged
-- commitlint
-- commitizen
-- standard-version
-
-### 项目目录结构
